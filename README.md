@@ -1,1 +1,1 @@
-# 3x3-filter-size-line-buffer-convolution
+# 3x3 filter size line buffer convolution
